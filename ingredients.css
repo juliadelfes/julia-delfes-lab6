@@ -1,0 +1,72 @@
+/* Styles for the top and bottom bun */
+.bun-top, .bun-bottom {
+    height: 30px;  /* Increased height */
+    width: 180px;  /* Increased width */
+    background-color: #f4d4a9; /* Modified color */
+    border-radius: 60px 60px 0 0;
+    margin: 2px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.15);
+}
+
+/* Style for lettuce */
+.lettuce {
+    height: 15px;  /* Increased height */
+    width: 150px;  /* Increased width */
+    background-color: #7ec850; /* Modified color */
+    border-radius: 20px;
+    margin: 2px auto;
+}
+
+/* Style for tomato slices */
+.tomato {
+    height: 12px;  /* Modified height */
+    width: 135px;  /* Modified width */
+    background-color: #e54747; /* Darker red */
+    border-radius: 20px;
+    margin: 2px auto;
+}
+
+/* Style for onion slices */
+.onion {
+    height: 10px;
+    width: 140px;
+    background-color: #fcfcfc; /* Slightly off-white */
+    border-radius: 15px;
+    margin: 2px auto;
+}
+
+/* Styles for cheese slices */
+.cheese {
+    height: 10px;
+    width: 155px;  /* Increased width */
+    background-color: #ffdb4d; /* Brighter yellow */
+    border-radius: 5px;
+    margin: 2px auto;
+}
+
+/* Style for the hamburger patty */
+.patty {
+    height: 25px;  /* Increased height */
+    width: 160px;  /* Increased width */
+    background-color: #8b4513; /* Darker brown */
+    border-radius: 15px;
+    margin: 2px auto;
+}
+
+/* Style for pickles */
+.pickle {
+    height: 10px;
+    width: 120px;  /* Modified width */
+    background-color: #7fff7f; /* Modified green */
+    border-radius: 10px;
+    margin: 2px auto;
+}
+
+/* Style for the serving plate */
+.plate {
+    height: 5px;
+    width: 230px;  /* Increased width */
+    background-color: #f0f0f0; /* Light gray */
+    border-radius: 100px;
+    margin: 20px auto;
+}
